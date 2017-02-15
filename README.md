@@ -4,3 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. npm install
 3. npm start
 4. Application should start at localhost:3000
+
+## Demo
+![](http://imgur.com/x5LZ0eU.png)
